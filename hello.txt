@@ -15,4 +15,4 @@ hello GZL! hello git!
 hello GZL! hello git!
 hello GZL! hello git!
 hello GZL! hello git!
-hello GZL! hello git! confilct
+hello GZL! hello git! hot-fix confilct test
